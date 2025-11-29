@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+playwright==1.44.0
+requests==2.31.0
+pandas==2.2.2
+pdfplumber==0.11.2
+openai==1.0.0
+python-dotenv==1.0.0
